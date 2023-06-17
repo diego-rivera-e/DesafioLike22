@@ -19,7 +19,7 @@ npm install
 npm start
 npm run dev
 
-Peteciciones
+EP
 
 GET /posts
 POST /posts
